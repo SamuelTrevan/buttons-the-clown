@@ -1,0 +1,39 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "completedParties": [],
+  "partyRequests": [
+    {
+      "parentName": "Mr. Smith",
+      "childsName": "Johnny",
+      "partyAddress": "145 Main St",
+      "partyLength": "2",
+      "PartyDate": "2022-10-31",
+      "numberOfAttendes": "4",
+      "id": 2
+    },
+    {
+      "parentName": "Mr. Smith",
+      "childsName": "Timmy",
+      "partyAddress": "12345 main st",
+      "partyLength": "2",
+      "PartyDate": "2022-10-28",
+      "numberOfAttendes": "6",
+      "id": 3
+    }
+  ],
+  "parents": [
+    {
+      "parentName": "",
+      "childName": "Timmy"
+    }
+  ]
+}
